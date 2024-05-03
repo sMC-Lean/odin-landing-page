@@ -230,6 +230,12 @@ img {
   width: 200px;
 }
 
+@media screen and (max-width: 1300px) {
+  .section2 .heading {
+    font-size: 20px;
+  }
+}
+
 /* NEXT section 3, testimonial styles */
 .section3 {
   display: flex;
